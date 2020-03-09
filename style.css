@@ -1,0 +1,179 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+.header
+{
+    height: 100%;
+    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url(images/tropical-beach.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-top: 20px;
+    text-align: center;
+    color: #fff;
+}
+.header img
+{
+    width: 90px;
+    float: left;
+    margin-top: 20px;
+    margin-left: -80px;
+    
+}
+.header1 img
+{
+    width: 90px;
+    float: left;
+    margin-top: 20px;
+    margin-left: -80px;
+    
+}
+
+.login-btn
+{
+    width: 100px;
+    padding: 8px 0;
+    outline:none;
+    border:2px solid #fff;
+    border-radius: 50px;
+    background: transparent;
+    color:#fff;
+    float: right;
+    margin-top: 20px;
+    margin-right: -110px;
+}
+.header h1
+{   margin-top: -20px;
+   position:center;
+}
+.header h1
+{
+    padding-top: 210px;
+    padding-bottom: 0px;
+    font-size: 55px;
+}
+.header p
+{ font-size:25px;
+  margin:16px 0;
+}
+.login-btn1
+{
+    width: 100px;
+    padding: 8px 0;
+    outline:none;
+    border:2px solid #fff;
+    border-radius: 50px;
+    background: transparent;
+    color:#fff;
+    position: center;
+   margin-right: 16px;
+}
+.login-btn2
+{
+    width: 100px;
+    padding: 8px 0;
+    outline:none;
+    border:2px solid #fff;
+    border-radius: 50px;
+    background: transparent;
+    color:#fff;
+    position: center;
+    
+   
+}
+.input-group
+{
+    width: 90%;
+    max-width: 500px;
+    background: #fff ;
+    margin: auto;
+    
+}
+.form-control{
+    border: 0;
+    width: fit-content;
+    border-radius: 50px;
+    margin: 2px;
+    box-shadow: 0 0 0 0px;
+}
+.input-group-text 
+{
+    width:auto;
+    background-image: linear-gradient(#00ff7e,#1f3d90);
+    border: 0;
+    color:#fff;
+    border-radius: 70px;
+}
+.features
+{
+    padding: 100px 0;
+
+}
+.features h1{
+    margin-top: -60px;
+}
+h1{
+    
+    text-align: center;
+    padding-bottom: 30px;
+}
+.feature-img img
+{
+  width:100%;
+}
+.price
+{
+    width:50px;
+    height: 50px;
+    background: #ff5722;
+    color: #fff;
+    font-weight: 600;
+    border-radius: 50%;
+    padding: 10px;
+    box-shadow: 0 0 10px 1px rgba(37,73,214,0.18);
+    position:absolute;
+    left: 20px;
+    bottom: -25px;
+}
+.feature-img
+{
+   position: relative;
+}
+.rating
+{
+    padding: 3px;
+    float: right;
+    background: #fff;
+    bottom: -1px;
+    right:0;
+    position:absolute;
+}
+.features .fa
+{
+ font-size:15px;
+ color:#ff5722;
+}
+.feature-details
+{
+    padding: 25px;
+    text-align: justify;
+}
+.feature-details h4
+{
+    font-weight: 600;
+    margin-top: 20px;
+    
+}
+.feature-details .fa
+{
+    margin-right: 5px;
+}
+.flight h1{
+    position: center;
+    font-size: 100px;
+    margin-top: 180px;
+    font-family: ' Verdana';
+    color: maroon;
+}
