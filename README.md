@@ -1,17 +1,39 @@
 # prof
                   A travel brochure using html and css
 
-Description about the project:
+<b>Description about the project:</b>
 
 The purpose of this project is to create a single page brochure for a travelling agency. The definition of a travel brochure, is a brochure from a travel agency to provide information about packages, hotels etc. This can be even used as a tool to attract more customers.The technology that has been used for implementation is Bootstrap (HTML & CSS).
 
 
-Things I have learned (07.03.2020):
+<b>Things I have learned (07.03.2020):</b>
 
 I have learned a lot from this project. The very first thing that I learned was to make the webpage simple and accessible to the target community rather than making it complex. I have also learned that in order to build a proper project it is very much important to plan perfectly. This project helped me to learn HTML and CSS more and better with clarity.
 
+<b>Mistakes that I have made in this project:</b>
 
-Things to do differently to update or improve the site:
+	I should have named the page as index.html since it is the standard for any home page.
+
+	Instead of using b and i for bold and italics I must have used the CSS styles as they would be semantically correct.
+
+	I must have used doctype in my project else the browser may make assumptions about the type.
+
+	Should have used an alt attribute so that if the image is missing some text could be displayed.
+
+	The code could have been more compact.
+
+	Instead of white space in the background, I could have put some suitable background colour.
+
+	I must have added some comments to my code so that it could be understood by anyone who reads the same.
+
+	I should have tested it in other systems rather than only checking it at my system to make sure it works fine everywhere.
+
+	I shoudn't have used used libraries as it will make the website heavy (in case of larger websites).
+
+	Should have saved all the images using .png extension as it is a lossless compression file format.
+
+
+<b>Things to do differently to update or improve the site:</b>
 
 	In addition to just providing information about what can a person see if they choose the particular destination, we can tell why they will enjoy visiting them.
 
