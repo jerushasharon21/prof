@@ -56,3 +56,25 @@ I have learned a lot from this project. The very first thing that I learned was 
 	Instead of just providing the travel brochure we can offer online booking facilities as well.
 
 
+ENTRY BY RACHEL CYNTHIA
+DATE: 11-03-2020
+
+I would like to start off by appreciating how good the sight looks 
+and this is a brilliant idea.
+I liked your idea of putting a logo to the website and 
+adding the rating for each destination is a good idea.
+Though the 10 things I personally feel that can be improved are:
+
+1. Add some JavaScript content to the page.
+2. Align all the picture boxes at the same level.
+3. Add some navigation to the site.
+4. Align the description of the text properly.
+5. Try not repeating the same content for each destination.
+6. Leave spaces between icons and text. 
+7. Use of different styling fonts.
+8. Could have added a background.
+9. alt attribute for images could have been added.
+10. Make sure your spellings are correct.
+
+
+
